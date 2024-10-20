@@ -10,6 +10,6 @@ VANGUARD A|B Testing
 
 ## Tableau Public:
 
-- [Tableau Public](https://public.tableau.com/views/vanguard_ab_test_17294341160880/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- [Tableau Public](https://public.tableau.com/views/vanguard_ab_test_17294341160880/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
