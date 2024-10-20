@@ -108,7 +108,4 @@ The new design is an overall success, particularly among older clients. Improvem
 
 We recommend that Vanguard address minor issues before proceeding with the full implementation of the new UI.
 
----
-
-Thank you for checking out this project! For further questions or contributions, please feel free to reach out or explore the repository.
 
