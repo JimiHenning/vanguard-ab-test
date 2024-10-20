@@ -34,7 +34,7 @@ pip install pandas numpy scipy matplotlib seaborn
 
 The objective of this project is to evaluate the performance of a new feature introduced in the test group compared to the control group. The key variables explored include:
 
--**Completion Rates**: The amount of users successfully navigating through the new vs the old design.
+- **Completion Rates**: The amount of users successfully navigating through the new vs the old design.
 - **Error Rates**: The frequency of errors occurring during user interactions.
 - **Time Spent**: The amount of time users spend on various steps in the process.
 
