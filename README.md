@@ -106,6 +106,6 @@ While the differences were statistically significant according to their p-values
 ## Conclusion
 The new design is an overall success, particularly among older clients. Improvements should be made specifically to step 1. The experiment was well-structured and exhibited little bias, making the implementation cost-effective. 
 
-We recommend that Vanguard address minor issues before proceeding with the full implementation of the new UI.
+We recommend that Vanguard address these minor issues before proceeding with the full implementation of the new UI.
 
 
