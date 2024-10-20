@@ -28,7 +28,6 @@ To get started with this project, ensure you have the following libraries instal
 
 You can install these libraries using the following command:
 
-```bash
 pip install pandas numpy scipy matplotlib seaborn
 
 ## Objective
